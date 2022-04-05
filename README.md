@@ -1,0 +1,1 @@
+# hackintosh-i5-10400-ex-b460m-v5-efi
